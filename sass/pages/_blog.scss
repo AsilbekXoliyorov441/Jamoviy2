@@ -1,0 +1,22 @@
+.blog-card {
+    width: 300px;
+    height: 180px;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-left: 30px;
+
+    h1 {
+        color: red;
+        font-size: 32px;
+    }
+
+    p {
+        color: blue;
+        font-size: 20px;
+    }
+}
+
