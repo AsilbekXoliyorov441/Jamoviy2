@@ -20,6 +20,7 @@ ul {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .blog-card {
   width: 300px;
   height: 180px;
@@ -59,4 +60,21 @@ ul {
 .conta-card p :hover {
   color: red;
 >>>>>>> 776ad73fbfe4937b736cada8295f3dce696c8394
+=======
+.about__com {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-title {
+  background-color: bisque;
+  color: green;
+  padding: 20px;
+}
+
+.about-title-2 {
+  background-color: rgb(9, 236, 168);
+  color: green;
+  padding: 20px;
+>>>>>>> b7a174aad6164e8c1204eca8b1879f1634fd3c44
 }/*# sourceMappingURL=style.css.map */
