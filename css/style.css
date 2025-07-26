@@ -23,6 +23,7 @@ ul {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -41,6 +42,10 @@ ul {
   display: flex;
   justify-content: space-between;
 >>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
+=======
+  display: flex;
+  justify-content: space-between;
+>>>>>>> f0f32513751eb7a1cf6fe5558080cedb8244df03
 }
 
 .about-title {
@@ -50,6 +55,7 @@ ul {
 }
 
 .about-title-2 {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -63,6 +69,9 @@ ul {
 =======
   background-color: rgb(9, 236, 168);
 >>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
+=======
+  background-color: rgb(9, 236, 168);
+>>>>>>> f0f32513751eb7a1cf6fe5558080cedb8244df03
   color: green;
   padding: 20px;
 }
@@ -81,6 +90,7 @@ ul {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
@@ -88,6 +98,8 @@ ul {
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
 =======
 >>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
+=======
+>>>>>>> f0f32513751eb7a1cf6fe5558080cedb8244df03
 .blog-card h1 {
   color: red;
   font-size: 32px;
@@ -95,6 +107,7 @@ ul {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
@@ -102,6 +115,8 @@ ul {
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
 =======
 >>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
+=======
+>>>>>>> f0f32513751eb7a1cf6fe5558080cedb8244df03
 .blog-card p {
   color: blue;
   font-size: 20px;
@@ -133,6 +148,7 @@ ul {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .conta-card h1 {
   color: red;
@@ -151,6 +167,8 @@ ul {
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
 =======
 >>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
+=======
+>>>>>>> f0f32513751eb7a1cf6fe5558080cedb8244df03
 .conta-card h1 {
   color: red;
 }
@@ -160,6 +178,7 @@ ul {
 .conta-card h1:hover {
   color: yellow;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
@@ -167,6 +186,8 @@ ul {
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
 =======
 >>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
+=======
+>>>>>>> f0f32513751eb7a1cf6fe5558080cedb8244df03
 .conta-card p :hover {
   color: red;
 }
