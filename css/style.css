@@ -20,6 +20,104 @@ ul {
   margin-right: auto;
 }
 
+.about__com {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.about-title {
+  background-color: bisque;
+  color: green;
+  padding: 20px;
+}
+
+.about-title-2 {
+  background-color: #09eca8;
+  color: green;
+  padding: 20px;
+}
+
+.blog-card {
+  width: 300px;
+  height: 180px;
+  background-color: yellow;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  margin-top: 40px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.blog-card h1 {
+  color: red;
+  font-size: 32px;
+}
+
+.blog-card p {
+  color: blue;
+  font-size: 20px;
+}
+
+.content {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  padding-top: 30px;
+  padding-left: 30px;
+  text-align: center;
+  border-radius: 50px;
+}
+
+.content p {
+  margin-top: 30px;
+  font-size: 18px;
+}
+
+.conta-card {
+  width: 200px;
+  background-color: aqua;
+  border-radius: 5px;
+  padding: 20px 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.conta-card h1 {
+  color: red;
+}
+
+.conta-card p {
+  color: yellow;
+}
+
+.conta-card h1:hover {
+  color: yellow;
+}
+
+.conta-card p :hover {
+  color: red;
+}
+
+.port-card {
+  background-color: pink;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+}
+
+.port-card h1 {
+  color: darkmagenta;
+}
+
+.port-card p {
+  margin-top: 10px;
+}
+
 .home-card {
   width: 300px;
   background-color: red;
