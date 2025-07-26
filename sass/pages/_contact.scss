@@ -1,0 +1,16 @@
+.card{
+    min-width: 400px;
+    background-color: aqua;
+    h1{
+        color: red;
+    }
+    p{
+        color: yellow;
+    }
+    h1:hover{
+      color: yellow;
+    }
+    p :hover{
+        color: red;
+    }
+}
