@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,CAAC,CAAA;EACC,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,WAAW,EAAE,UAAU;CACxB;;AAED,AAAA,CAAC,CAAA;EACC,eAAe,EAAE,IAAI;CACtB;;AAED,AAAA,EAAE,CAAA;EACA,UAAU,EAAE,IAAI;CACjB;;AAED,AAAA,UAAU,CAAA;EACR,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CACnB;;AMnBD,AAAA,QAAQ,CAAA;EACJ,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,IAAI;CACtB;;AACD,AAAA,QAAQ,CAAC,CAAC,CAAA;EACN,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "style.scss",
+        "vendors/_bootstrap.scss",
+        "base/_reset.scss",
+        "utils/_variables.scss",
+        "layout/_header.scss",
+        "layout/_footer.scss",
+        "pages/_about.scss",
+        "pages/_blog.scss",
+        "pages/_catalog.scss",
+        "pages/_contact.scss",
+        "pages/_portfolio.scss",
+        "components/_buttons.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
