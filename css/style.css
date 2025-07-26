@@ -22,6 +22,7 @@ ul {
 .about__com {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -36,6 +37,10 @@ ul {
   display: flex;
   justify-content: space-between;
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
+=======
+  display: flex;
+  justify-content: space-between;
+>>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
 }
 
 .about-title {
@@ -47,6 +52,7 @@ ul {
 .about-title-2 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #09eca8;
 =======
   background-color: rgb(9, 236, 168);
@@ -54,6 +60,9 @@ ul {
 =======
   background-color: rgb(9, 236, 168);
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
+=======
+  background-color: rgb(9, 236, 168);
+>>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
   color: green;
   padding: 20px;
 }
@@ -71,22 +80,28 @@ ul {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 =======
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
+=======
+>>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
 .blog-card h1 {
   color: red;
   font-size: 32px;
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 =======
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
+=======
+>>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
 .blog-card p {
   color: blue;
   font-size: 20px;
@@ -117,6 +132,7 @@ ul {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .conta-card h1 {
   color: red;
@@ -133,6 +149,8 @@ ul {
 =======
 =======
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
+=======
+>>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
 .conta-card h1 {
   color: red;
 }
@@ -143,9 +161,12 @@ ul {
   color: yellow;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 =======
 >>>>>>> 777e235cd914e8ab8dc83d4c903ea29cc3c2d265
+=======
+>>>>>>> cbdcc428b3973f9126f42d4bd6080bbca019246c
 .conta-card p :hover {
   color: red;
 }
