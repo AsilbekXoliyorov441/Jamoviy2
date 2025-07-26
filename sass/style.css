@@ -19,19 +19,23 @@ ul {
   margin-right: auto;
 }
 
-.card {
-  min-width: 400px;
+.conta-card {
+  width: 200px;
   background-color: aqua;
+  border-radius: 5px;
+  padding: 20px 10px;
+  margin-top: 20px;
+  text-align: center;
 }
-.card h1 {
+.conta-card h1 {
   color: red;
 }
-.card p {
+.conta-card p {
   color: yellow;
 }
-.card h1:hover {
+.conta-card h1:hover {
   color: yellow;
 }
-.card p :hover {
+.conta-card p :hover {
   color: red;
 }/*# sourceMappingURL=style.css.map */
