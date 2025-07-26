@@ -1,8 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   font-family: sans-serif;
 }
 
@@ -21,12 +20,17 @@ ul {
 }
 
 .about__com {
+<<<<<<< HEAD
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+=======
+  display: flex;
+  justify-content: space-between;
+>>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 }
 
 .about-title {
@@ -36,7 +40,11 @@ ul {
 }
 
 .about-title-2 {
+<<<<<<< HEAD
   background-color: #09eca8;
+=======
+  background-color: rgb(9, 236, 168);
+>>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
   color: green;
   padding: 20px;
 }
@@ -52,12 +60,18 @@ ul {
   padding-top: 30px;
   padding-left: 30px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 .blog-card h1 {
   color: red;
   font-size: 32px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 .blog-card p {
   color: blue;
   font-size: 20px;
@@ -86,6 +100,7 @@ ul {
   margin-top: 20px;
   text-align: center;
 }
+<<<<<<< HEAD
 
 .conta-card h1 {
   color: red;
@@ -99,6 +114,17 @@ ul {
   color: yellow;
 }
 
+=======
+.conta-card h1 {
+  color: red;
+}
+.conta-card p {
+  color: yellow;
+}
+.conta-card h1:hover {
+  color: yellow;
+}
+>>>>>>> 31f60fc6b0e7f3e133e9f46888131eab293e5f37
 .conta-card p :hover {
   color: red;
 }
