@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.port-card {
+  background-color: pink;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+}
+
+.port-card h1 {
+  color: darkmagenta;
+}
+
+.port-card p {
+  margin-top: 10px;
+}/*# sourceMappingURL=style.css.map */
