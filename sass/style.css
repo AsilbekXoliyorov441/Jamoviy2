@@ -19,6 +19,7 @@ ul {
   margin-right: auto;
 }
 
+<<<<<<< HEAD
 .blog-card {
   width: 300px;
   height: 180px;
@@ -37,4 +38,25 @@ ul {
 .blog-card p {
   color: blue;
   font-size: 20px;
+=======
+.conta-card {
+  width: 200px;
+  background-color: aqua;
+  border-radius: 5px;
+  padding: 20px 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+.conta-card h1 {
+  color: red;
+}
+.conta-card p {
+  color: yellow;
+}
+.conta-card h1:hover {
+  color: yellow;
+}
+.conta-card p :hover {
+  color: red;
+>>>>>>> 776ad73fbfe4937b736cada8295f3dce696c8394
 }/*# sourceMappingURL=style.css.map */
